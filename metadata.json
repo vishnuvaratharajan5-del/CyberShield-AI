@@ -1,0 +1,8 @@
+{
+  "name": "CyberShield AI",
+  "description": "An Integrated AI-Powered Cybersecurity Management and Threat Response Platform combining threat detection, vulnerability management, incident response, and cyber awareness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
